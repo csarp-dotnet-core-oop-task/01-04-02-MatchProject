@@ -15,5 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MatchProject\MatchProject.csproj" />
   </ItemGroup>
 </Project>
